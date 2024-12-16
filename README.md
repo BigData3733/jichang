@@ -10,7 +10,7 @@
 | :----- | :----- | :----- | :----- | :----- | :----- | :----- | 
 |  [EFCloud](https://inv.easyfastcloud.com/#/register?code=HwwBaKx7) | 暂无 |中转机场、专线机场| 10元200G | 25元100G | 2022年6月 |  新人8折优惠码: **new**|
 |  [飞兔云](https://飞兔云.site/index.html?register=C0ZvbxgX) | 暂无 |中转机场、专线机场| 9.9元118G | 29.9元100G | 2023-09-07 |  |
-|  [EF Network](https://666.subef.top/#/login?code=ArQFWeH9) | 暂无 |中转机场| 9.9元100G | 49元350G | 2024-02-23 |  |
+|  [EF Network](https://666.subef.top/#/login?code=ArQFWeH9) | 暂无 |中转机场| 9.9元100G | 49元350G | 2024-02-23 | 新用户8折优惠码: **80off** 老用户续费优惠码: **90off** |
 | [哈基米](https://a.hajimi.icu/c3ca2751f44d40bf9df918b4eaea7839/MjMxYmQ2) | 暂无 |中转机场、直连机场| 19.8元100G | 10元1000G | 2024-01-29 |  |
 |  [极速云](https://w2.rouhe88.com/#/register?code=aSnr6JSe) | 暂无 |中转机场、专线机场| 9.9元100G | 39元125G | 2023-02-14 |  |
 
