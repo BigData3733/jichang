@@ -6,11 +6,10 @@
 
 ## 机场推荐列表
 
-| 名称 | 试用套餐 | 机场类型| 月付套餐 | 不限时套餐 | 注册地址 | 优惠码 |
+| 机场官网 | 试用套餐 | 机场类型| 月付套餐 | 不限时套餐 | 开业时间 | 优惠码 |
 | :----- | :----- | :----- | :----- | :----- | :----- | :----- | 
-| 哈基米 | 暂无 |中转机场/直连机场| 19.8元100G | 10元1000G | [点击注册](https://a.hajimi.icu/c3ca2751f44d40bf9df918b4eaea7839/MjMxYmQ2) |  |
-| 地鼠机场 | 暂无 |中转机场| 1元30G| 3元100G | [点击注册](http://dishujichang.xyz/#/register?code=94tQZM7G) |  |
-| 一毛机场 | 暂无 |直连机场| 1元100G-3元500G | 5元100G | [点击注册](https://xn--4gqu8tcnnope.com/#/register?code=bqRmR5WW) | 9折优惠码：**VFkpIWl5** |
+|  [EFCloud](https://inv.easyfastcloud.com/#/register?code=HwwBaKx7) | 暂无 |中转机场/直连机场| 20元200G | 25元100G | 2022年6月 |  新人8折优惠码: **new**|
+| [哈基米](https://a.hajimi.icu/c3ca2751f44d40bf9df918b4eaea7839/MjMxYmQ2) | 暂无 |中转机场/直连机场| 19.8元100G | 10元1000G | 2024-01-29 |  |
 
 
 如果本项目对您有所帮助，请 [Star](https://github.com/BigData3733/jichang)，您的支持是我更新的动力！
