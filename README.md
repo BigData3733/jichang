@@ -8,7 +8,6 @@
 
 | 机场官网 | 试用套餐 | 机场类型| 月付套餐 | 不限时套餐 | 开业时间 | 优惠码 |
 | :----- | :----- | :----- | :----- | :----- | :----- | :----- | 
-|  [EFCloud](https://inv.easyfastcloud.com/#/register?code=HwwBaKx7) | 暂无 |中转机场、专线机场| 10元200G | 25元100G | 2022年6月 |  新人8折优惠码: **new**|
 |  [飞兔云](https://飞兔云.site/index.html?register=C0ZvbxgX) | 暂无 |中转机场、专线机场| 9.9元118G | 29.9元100G | 2023-09-07 |  |
 |  [EF Network](https://666.subef.top/#/login?code=ArQFWeH9) | 暂无 |中转机场| 9.9元100G | 49元350G | 2024-02-23 | 新用户8折优惠码: **80off** 老用户续费优惠码: **90off** |
 | [哈基米](https://a.hajimi.icu/c3ca2751f44d40bf9df918b4eaea7839/MjMxYmQ2) | 暂无 |中转机场、直连机场| 19.8元100G | 10元1000G | 2024-01-29 |  |
@@ -19,19 +18,7 @@
 
 ## 机场测试
 
-### EFCloud
 
-测速与解锁情况:
-![photo_2024-11-22 18 04 37](https://github.com/user-attachments/assets/6e236423-b35a-4279-ac7e-0babcb29a4f2)
-
-
-![2024-12-04T18-28-39 778-ID-27d5482e](https://github.com/user-attachments/assets/57e69d3e-85f2-4503-b906-54361c9d4db3)
-
-
-线路分析:
-![efc线路分析](https://github.com/user-attachments/assets/e23f62e2-c9e2-43a1-92d6-18e8b91df6b6)
-
----
 
 ### 飞兔云
 
