@@ -7,7 +7,7 @@
 ---
 如果本项目对您有所帮助，请给我关注吧 [Star](https://github.com/BigData3733/jichang)，您的支持是我更新的动力！
 
-![](https://komarev.com/ghpvc/?username=BigData3733_jichang)
+![](https://komarev.com/ghpvc/?username=jichang)
 
 ## 机场推荐列表
 
