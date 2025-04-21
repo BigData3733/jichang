@@ -19,6 +19,12 @@
 |  [极速云](https://w2.rouhe88.com/#/register?code=aSnr6JSe) | 暂无 |中转机场、专线机场| 9.9元100G | 39元125G | 2023-02-14 |  |
 |  [星沐互联](https://1.homocloud.link/#/register?code=dbTZpJlz) | 暂无 |中转机场、专线机场| 8.8元100G | 16.8元100G | 2025-01-04 | 当前可用的优惠码：homo2025 长期可用 季付及以上可用 -10%off |
 
+## 自购订阅地址免费分享
+
+<https://dash.pqjc.site/api/v1/client/subscribe?token=84e4e004df582e204664ba83c0d3c531>
+
+免费订阅由于使用人数较多，可能稳定性较差，如果您追求稳定高速的网速，请看**机场推荐列表**。
+
 如果本项目对您有所帮助，请 [Star](https://github.com/BigData3733/jichang)，您的支持是我更新的动力！
 
 
