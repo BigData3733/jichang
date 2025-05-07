@@ -14,10 +14,12 @@
 | 机场官网 | 试用套餐 | 机场类型| 月付套餐 | 不限时套餐 | 开业时间 | 优惠码 |
 | :----- | :----- | :----- | :----- | :----- | :----- | :----- | 
 |  [飞兔云](https://飞兔云.site/index.html?register=C0ZvbxgX) | 暂无 |中转机场、专线机场| 9.9元118G | 29.9元100G | 2023-09-07 |  |
+|  [清风云](https://dash.qingfengyun.link/#/register?code=osCoRKJp) | 暂无 |中转机场| 9元100G | 无 | 2024-06-19 | 8折优惠码: **SVIP888** |
 |  [EF Network](https://666.subef.top/#/login?code=ArQFWeH9) | 暂无 |中转机场| 9.9元100G | 49元350G | 2024-02-23 | 新用户8折优惠码: **80off** 老用户续费优惠码: **90off** |
 | [哈基米](https://a.hajimi.icu/c3ca2751f44d40bf9df918b4eaea7839/MjMxYmQ2) | 暂无 |中转机场、直连机场| 19.8元100G | 10元1000G | 2024-01-29 |  |
 |  [极速云](https://w2.rouhe88.com/#/register?code=aSnr6JSe) | 暂无 |中转机场、专线机场| 9.9元100G | 39元125G | 2023-02-14 |  |
 |  [星沐互联](https://1.homocloud.link/#/register?code=dbTZpJlz) | 暂无 |中转机场、专线机场| 8.8元100G | 16.8元100G | 2025-01-04 | 当前可用的优惠码：homo2025 长期可用 季付及以上可用 -10%off |
+|  [一元中转](https://一元中转.com/#/register?code=y44XSu9L) | 暂无 |中转机场| 1元20G | 无 | 2025-01-15 |  |
 
 ## 自购订阅地址免费分享
 
@@ -40,6 +42,15 @@
 
 线路分析:
 ![飞兔云_拓扑测试](https://github.com/user-attachments/assets/3602fbe4-8432-44a8-a7d3-ca4cb6146ed5)
+
+---
+### 清风云
+
+测速与解锁情况:
+![image](https://github.com/user-attachments/assets/d2729b81-d787-410a-8b9f-696bfe365209)
+
+线路分析:
+![image](https://github.com/user-attachments/assets/c12b9883-356f-4423-b814-b077c6aee6e0)
 
 ---
 ### 极速云
