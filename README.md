@@ -16,7 +16,7 @@
 |  [飞兔云](https://飞兔云.site/index.html?register=C0ZvbxgX) | 暂无 |中转机场、专线机场| 9.9元118G | 29.9元100G | 2023-09-07 |  |
 |  [清风云](https://dash.qingfengyun.link/#/register?code=osCoRKJp) | 暂无 |中转机场| 9元100G | 无 | 2024-06-19 | 8折优惠码: **SVIP888** |
 |  [EF Network](https://666.subef.top/#/login?code=ArQFWeH9) | 暂无 |中转机场| 9.9元100G | 49元350G | 2024-02-23 | 新用户8折优惠码: **80off** 老用户续费优惠码: **90off** |
-| [牛逼机场](6.66jc.top/#/login?code=5DKFf0U5) | 暂无 |中转+直连机场| 6.9元1000G | 12.9元200G | 2024-03-01 |  |
+| [牛逼机场](https://6.66jc.top/#/login?code=5DKFf0U5) | 暂无 |中转+直连机场| 6.9元1000G | 12.9元200G | 2024-03-01 |  |
 |  [极速云](https://w2.rouhe88.com/#/register?code=aSnr6JSe) | 暂无 |中转机场、专线机场| 9.9元100G | 39元125G | 2023-02-14 |  |
 
 ## 自购订阅地址免费分享
