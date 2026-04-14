@@ -19,10 +19,13 @@
 | [牛逼机场](https://6.66jc.top/#/login?code=5DKFf0U5) | 暂无 |中转+直连机场| 6.9元1000G | 12.9元200G | 2024-03-01 |  |
 |  [极速云](https://w2.rouhe88.com/#/register?code=aSnr6JSe) | 暂无 |中转机场、专线机场| 9.9元100G | 39元125G | 2023-02-14 |  |
 |  [一分机场](https://xn--4gqx1hgtfdmt.com/#/register?code=UqrLKhbN) | 暂无 |直连机场| 2元100G | 11.88元100G | 2023-02-01 |  |
+|  [抹茶云](https://ww1.638242.xyz/#/register?code=SO7fKn8s) | 暂无 |中转机场| 9.88元128G | 无 | 2023-09-04 |  |
+
+
 
 ## 自购订阅地址免费分享
 
-<https://dash.pqjc.site/api/v1/client/subscribe?token=84e4e004df582e204664ba83c0d3c531>
+<https://47.238.198.94/iv/verify_mode.htm?token=668a45f800733d4d93279d2da09132c9&name=射手座>
 
 免费订阅由于使用人数较多，可能稳定性较差，如果您追求稳定高速的网速，请看**机场推荐列表**。
 
