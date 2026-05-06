@@ -14,7 +14,7 @@
 | 机场官网 | 试用套餐 | 机场类型| 月付套餐 | 不限时套餐 | 开业时间 | 优惠码 |
 | :----- | :----- | :----- | :----- | :----- | :----- | :----- | 
 |  [飞兔云](https://飞兔云.site/index.html?register=C0ZvbxgX) | 暂无 |中转机场、专线机场| 9.9元118G | 29.9元100G | 2023-09-07 |  |
-|  [清风云](https://www.qingfengyun.xyz/?code=osCoRKJp) | 暂无 |中转机场| 12元100G | 无 | 2024-06-19 | 8折优惠码: **SVIP888** |
+|  [NanoCloud](https://edu.360buyimg.men/auth/register?code=1PhiI0Pi) | 50G流量适用 |直连机场| 1元100G | 无 | 2024-03-01 |  |
 |  [EF Network](https://666.subef.top/#/login?code=ArQFWeH9) | 暂无 |中转机场| 9.9元100G | 49元350G | 2024-02-23 | 新用户8折优惠码: **80off** 老用户续费优惠码: **90off** |
 | [牛逼机场](https://6.66jc.top/#/login?code=5DKFf0U5) | 暂无 |中转+直连机场| 6.9元1000G | 12.9元200G | 2024-03-01 |  |
 |  [极速云](https://w2.rouhe88.com/#/register?code=aSnr6JSe) | 暂无 |中转机场、专线机场| 9.9元100G | 39元125G | 2023-02-14 |  |
@@ -46,14 +46,6 @@
 线路分析:
 ![飞兔云_拓扑测试](https://github.com/user-attachments/assets/3602fbe4-8432-44a8-a7d3-ca4cb6146ed5)
 
----
-### 清风云
-
-测速与解锁情况:
-![image](https://github.com/user-attachments/assets/d2729b81-d787-410a-8b9f-696bfe365209)
-
-线路分析:
-![image](https://github.com/user-attachments/assets/c12b9883-356f-4423-b814-b077c6aee6e0)
 
 ---
 ### 极速云
