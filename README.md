@@ -19,7 +19,7 @@
 | [牛逼机场](https://6.66jc.top/#/login?code=5DKFf0U5) | 暂无 |中转+直连机场| 6.9元1000G | 12.9元200G | 2024-03-01 |  |
 |  [极速云](https://w2.rouhe88.com/#/register?code=aSnr6JSe) | 暂无 |中转机场、专线机场| 9.9元100G | 39元125G | 2023-02-14 |  |
 |  [一分机场](https://xn--4gqx1hgtfdmt.com/#/register?code=UqrLKhbN) | 暂无 |直连机场| 2元100G | 11.88元100G | 2023-02-01 |  |
-|  [抹茶云](https://ww1.638242.xyz/#/register?code=SO7fKn8s) | 暂无 |中转机场| 9.88元128G | 无 | 2023-09-04 |  |
+|  [良心云](https://xn--9kqz23b19z.com/#/register?code=GZScPc3e) | 暂无 |直连机场| 2元100G | 无 | 2023-09-04 |  |
 
 
 
@@ -57,4 +57,21 @@
 
 线路分析:
 ![线路分析 (12)](https://github.com/user-attachments/assets/508ef00d-dd9b-408f-9b92-aa4133b70e6f)
+
+
+---
+### 良心云 
+
+测速与解锁情况:
+<img width="2118" height="3018" alt="良心云丨单线程深圳移动@1Gbps" src="https://github.com/user-attachments/assets/5e895afd-7dab-444f-af11-624619820847" />
+
+<img width="3797" height="3018" alt="良心云丨流媒体解锁" src="https://github.com/user-attachments/assets/f7fb8a7f-8fea-443d-99bf-e32982db6f6f" />
+
+<img width="2273" height="2960" alt="良心云丨AI解锁测试" src="https://github.com/user-attachments/assets/045d9993-0893-4713-bcf7-1bceb47e2b12" />
+
+
+
+
+线路分析:
+<img width="1746" height="5048" alt="良心云丨线路分析 (1)" src="https://github.com/user-attachments/assets/3dfe6d92-a690-4715-8725-14cb914013d0" />
 
