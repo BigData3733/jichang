@@ -26,7 +26,7 @@
 
 ## 自购订阅地址免费分享
 
-<https://47.238.198.94/iv/verify_mode.htm?token=668a45f800733d4d93279d2da09132c9&name=射手座>
+<https://8.217.204.148/iv/verify_mode.htm?token=5bd33c3cd74782a0d22fcbf5cb8f01bd>
 
 免费订阅由于使用人数较多，可能稳定性较差，如果您追求稳定高速的网速，请看**机场推荐列表**。
 
