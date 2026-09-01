@@ -17,7 +17,6 @@
 |  [NanoCloud](https://edu.360buyimg.men/auth/register?code=1PhiI0Pi) | 50G流量适用 |直连机场| 1元100G | 无 | 2024-03-01 |  |
 |  [EF Network](https://666.subef.top/#/login?code=ArQFWeH9) | 暂无 |中转机场| 9.9元100G | 49元350G | 2024-02-23 | 新用户8折优惠码: **80off** 老用户续费优惠码: **90off** |
 | [牛逼机场](https://6.66jc.top/#/login?code=5DKFf0U5) | 暂无 |中转+直连机场| 6.9元1000G | 12.9元200G | 2024-03-01 |  |
-|  [极速云](https://w2.rouhe88.com/#/register?code=aSnr6JSe) | 暂无 |中转机场、专线机场| 9.9元100G | 39元125G | 2023-02-14 |  |
 |  [一分机场](https://xn--4gqx1hgtfdmt.com/#/register?code=UqrLKhbN) | 暂无 |直连机场| 2元100G | 11.88元100G | 2023-02-01 |  |
 |  [良心云](https://xn--9kqz23b19z.com/#/register?code=GZScPc3e) | 暂无 |直连机场| 2元100G | 无 | 2023-09-04 |  |
 
